@@ -6,7 +6,7 @@
 # Steps:
 # 1.Download the Assignment
 # 2.open terminal 1
-    cd backend
+    cd Backend
     mvn spring-boot:run
 # 3.open terminal 2
     cd frontend
